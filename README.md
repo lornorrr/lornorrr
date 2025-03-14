@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I'm Thananya
+
+<a href+"www.linkedin.com/in/thananya-osochpromma-91b383239"><img src = "https://img.shields.io/badge/-LinkedIn0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **lornorrr/lornorrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
