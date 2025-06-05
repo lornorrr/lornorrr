@@ -2,7 +2,7 @@
 
 <a href = "https://www.linkedin.com/in/thananya-osochpromma-91b383239/"><img src = "https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a third-year computer engineering student in Mahidol University International College
+I'm a 4th year computer engineering student in Mahidol University International College
 
 **Field of interest:**
 
