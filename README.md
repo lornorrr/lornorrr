@@ -10,11 +10,11 @@ Cloud computing, Cybersecurity, Machine Learning, and Large Language Model
 
 **Programming Language skills:**
 
-C, C++, Java, Python, and SQL
+Java, C++, C, Python, Dart, Flutter, SQL
 
 **Currently working on:**
 
-Right now I'm currently working on my thesis project called "Buddy" with my teammates.
+New CNN project
 <!--
 **lornorrr/lornorrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
